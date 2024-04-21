@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BananaClassification" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/orange</item>
+
+    </style>
+    <style name="SCREEN">
+        <item name="android:background">@drawable/backgroundnight</item>
+    </style>
+    <style name="TEXT">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TEXT2">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>
